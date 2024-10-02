@@ -2,7 +2,10 @@
 
 Swift Extension Library
 
-[![Version](https://img.shields.io/cocoapods/v/SwiftPlus.svg?style=flat)](https://cocoapods.org/pods/SwiftPlus)
+[![Version](https://img.shields.io/cocoapods/v/SwiftPlus.svg?style=for-the-badge)](https://cocoapods.org/pods/SwiftPlus)
+[![Platform](https://img.shields.io/cocoapods/p/SwiftPlus.svg?style=for-the-badge)](https://cocoapods.org/pods/SwiftPlus)
+[![License](https://img.shields.io/cocoapods/l/SwiftPlus.svg?style=for-the-badge)](https://cocoapods.org/pods/SwiftPlus)
+[![Metrics](https://img.shields.io/cocoapods/metrics/doc-percent/SwiftPlus?style=for-the-badge)](https://cocoapods.org/pods/SwiftPlus)
 
 ## Installation
 

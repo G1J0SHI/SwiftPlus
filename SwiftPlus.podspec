@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = 'SwiftPlus'
-  s.version               = '0.1.0'
+  s.version               = '1.0.0'
   s.summary               = 'Swift Extension Library'
   s.description           = 'A Swift Extension Library.'
   s.homepage              = 'https://github.com/G1J0SHI/SwiftPlus'

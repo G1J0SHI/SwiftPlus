@@ -9,7 +9,6 @@ Pod::Spec.new do |s|
   s.source                = { :git => 'https://github.com/G1J0SHI/SwiftPlus.git', :tag => s.version.to_s }
   s.source_files          = 'Sources/**/*.swift'
   s.ios.deployment_target = '13.0'
-  s.osx.deployment_target = '13.0'
-  s.swift_versions        = '6.0'
-  s.frameworks            = 'SwiftUI'
+  s.osx.deployment_target = '10.15'
+  s.swift_version         = '5.0'
 end
